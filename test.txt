@@ -1,2 +1,0 @@
-test for hanqing server.
-see if it can work successfully.
